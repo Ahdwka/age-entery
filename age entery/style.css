@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1.6em;
+}
+
+#subBtn{
+    margin: 40px;
+    font-size: 1.7em;
+    background: hsl(0, 0%, 88%);
+    border-radius: 7px;
+    cursor: pointer;
+}
+#subBtn:hover{
+    background: gray;
+}
+
+#mtText{
+    padding: 8px;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+#statuesP{
+    margin-top: 0;
+    font-size: 4em;
+}
